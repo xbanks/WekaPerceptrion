@@ -1,0 +1,18 @@
+@relation simple
+
+@attribute a01 numeric
+@attribute a02 numeric
+@attribute class {a, b}
+
+@data
+
+1.0,1.0,a
+9.4,6.4,b
+2.5,2.1,a
+8.0,7.7,b
+0.5,2.2,a
+7.9,8.4,b
+7.0,7.0,b
+2.8,0.8,a
+1.2,3.0,a
+7.8,6.1,b

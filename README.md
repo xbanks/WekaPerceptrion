@@ -1,0 +1,3 @@
+# Weka Perceptron Classifier (AI Assignment 3)
+
+This is an implementation of a simple perceptron classifier using the [Weka](http://www.cs.waikato.ac.nz/ml/weka/) framework. This produces a classification based on a model trained on the simple.arff file. The weka framework will run our classifier with different inputs after we've trained our model, and will give us a percentage rating on the accuracy of the model.
